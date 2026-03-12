@@ -1,0 +1,10 @@
+{
+  "name": "loop-habit-tracker-lite",
+  "version": "1.0.0",
+  "description": "Lite Node.js Loop-style habit tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
